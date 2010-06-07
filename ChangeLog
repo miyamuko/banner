@@ -1,0 +1,11 @@
+2006-01-02  MIYAMUKO Katsuyuki
+
+	* (bdf-expand-glyph): バグっていたのを修正。
+
+2004-08-09  MIYAMUKO Katsuyuki
+
+	* サイト移転に伴うこまごまとした修正
+
+2003-08-29  MIYAMUKO Katsuyuki
+
+	* banner 0.1 リリース
